@@ -9,9 +9,9 @@
     "cache_update_frequency_rarely": 43200000,
     "default_lang": "en",
     "languages": {
-        "ht": "Creole",
+        "ht": "Kreyòl",
         "en": "English",
-        "es": "Español - Internacional",
+        "es": "Español",
         "fr": "Français"
     },
     "wsservice": "moodle_mobile_app",
